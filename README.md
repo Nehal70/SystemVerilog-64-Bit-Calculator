@@ -5,6 +5,8 @@ This repository contains my implementation of a 64-bit calculator system designe
 
 Also, you can find my Physical Design Code / Submission here : https://drive.google.com/file/d/1MV9C1cCGPoItuLDFaxNPrvWfe1FyGTSN/view?usp=sharing 
 
+Here's my article explaining what I learnt from this project, and a beginner's guide to HDL and setting up testbenches / hardware projects : https://medium.com/@nehalsinghal77/understanding-hdl-ace0e0d1f3d2
+
 ## What I've Learned
 
 ### 🎯 Core Skills Developed
